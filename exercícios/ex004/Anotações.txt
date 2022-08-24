@@ -1,0 +1,3 @@
+usar: LINK:FAVICON na area HEAD para add um favicon // pode  ser criado em favicon.io
+
+Obs.: cometarios sao feitos com: <!--

@@ -1,0 +1,2 @@
+quando criar uma aba que estuver dentro de uma outra pasta, lembre-se use o CTRL + SPACE para selecionar como o usual
+porém quando for voltar a pag (saindo dessa pasta) use o ../ assm como no LINUX

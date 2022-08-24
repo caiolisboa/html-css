@@ -1,0 +1,8 @@
+Emojis sempre começam com: &#x(codigo do emoji) ; Pré- definidos: &trade &euro &Delta etc // estes não precisam do #x
+site para emojis: EMOJIPEDIA
+
+<br> (break): qubra a linha 
+
+&!lt significa < // &!gt significa > // caso queira escreve los
+
+<hr> horizontal road: add uma linha 

@@ -1,0 +1,17 @@
+Utilidades:
+
+CTRL + SHIFT + P // ENVELOPAR 
+
+<strong> // negrito
+<em> // italico ou enfase
+<sup> // sobre o caracter (x3 == x elevado a terceira)
+<sub> // desce o caracter ( H2O)
+<quote> // citações == aspas
+<blockquote> // grande citação 
+<abbr> // abreviaçoes
+<code> // deixa os espacos uniforme
+<pre> // pré-formatação ( contabiliza os espaços dados)
+<del> // texto excluso (cortado)
+<ins> // sublinhado
+<big>  e <small> // texto grande e pequeno
+<mark> // marcar 
